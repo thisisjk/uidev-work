@@ -1,4 +1,4 @@
-jay-uidev-works
+uidev-works
 ===============
 
-Front End Development Work Show Case
+Front End Development
